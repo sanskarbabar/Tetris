@@ -1,0 +1,11 @@
+{
+  "name": "tetris-dsa-root",
+  "version": "1.0.0",
+  "description": "Tetris DSA Edition",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build"
+  }
+}
+
